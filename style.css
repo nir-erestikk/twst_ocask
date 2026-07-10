@@ -8,7 +8,7 @@
 body {
     background-color: #0d0914; /* Чернильно-черный с фиолетовым отливом */
     color: #f5f2eb; /* Мягкий белый (цвет пергамента) */
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Cormorant Unicase', sans-serif;
     overflow-x: hidden;
     min-height: 100vh;
     display: flex;
@@ -30,7 +30,7 @@ body {
 }
 
 .logo {
-    font-family: 'Cinzel', serif;
+    font-family: 'Cormorant Unicase', serif;
     font-size: 1.5rem;
     font-weight: 700;
     color: #d4af37; /* Золотой цвет */
@@ -93,7 +93,7 @@ body {
 }
 
 .hero-title {
-    font-family: 'Cinzel', serif;
+    font-family: 'Cormorant Unicase', serif;
     font-size: 3rem;
     color: #f5f2eb;
     margin-bottom: 20px;
@@ -126,7 +126,7 @@ body {
     padding: 15px 40px;
     text-decoration: none;
     color: #f5f2eb;
-    font-family: 'Cinzel', serif;
+    font-family: 'Cormorant Unicase', serif;
     font-size: 1rem;
     letter-spacing: 2px;
     text-transform: uppercase;
