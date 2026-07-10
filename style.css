@@ -191,7 +191,7 @@ body {
     transform: translateY(0);
 }
 
-.logo-image{
+.logo-image {
     max-width: 100%; /* Картинка не будет выходить за пределы блока */
     height: auto; /* Сохраняем пропорции */
     display: block; /* Чтобы можно было задать margin для центрирования */
